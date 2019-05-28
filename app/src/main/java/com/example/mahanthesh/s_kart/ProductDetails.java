@@ -33,7 +33,7 @@ import java.util.List;
 
 public class ProductDetails extends AppCompatActivity {
 
-    private static final String API_KEY = "vyQYT02PZupRHICcasMCaRHIL2vObKNjrrj";
+    private static final String API_KEY = "<API-KEY>";
     private String DetailURL = "https://price-api.datayuge.com/api/v1/compare/detail?api_key=vyQYT02PZupRHICcasMCaRHIL2vObKNjrrj&id=";
     private String URL;
 
