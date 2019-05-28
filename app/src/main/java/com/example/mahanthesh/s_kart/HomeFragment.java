@@ -46,7 +46,7 @@ public class HomeFragment extends Fragment {
     String URL;
 
     String URL_API = "https://price-api.datayuge.com/api/v1/compare/search?product=";
-    String API_kEY = "&api_key=vyQYT02PZupRHICcasMCaRHIL2vObKNjrrj";
+    String API_kEY = "&api_key=<API-KEY>";
 
     @Nullable
     @Override
