@@ -6,4 +6,5 @@ Ecommerce product comparison android application
 2. Get the API-KEY.
 3. Paste it in the code.
 4. Refer https://price-api.datayuge.com/docs/?shell#price-comparison-api for all the available End Points
+5. This application uses firebase for User Authentication. Add your own google-services.json file.
 
